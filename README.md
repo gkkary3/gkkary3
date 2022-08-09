@@ -49,7 +49,7 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
 
 <br/>
 
-<h2>recently My Project</h2>
+<h2>Recently My Project</h2>
 <table>
   <tbody>
     <tr>
