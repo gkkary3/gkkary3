@@ -6,7 +6,7 @@
   <em>
     <h3>
     <h2><bold>About Me</bold></h2> <br>
-    Hello, I'm Park Sangmin.<br>
+    Hello, I'm Sangmin Park.<br>
 I'm currently dreaming of becoming a front-end developer.<br><br>
     안녕하세요. 저는 박상민입니다.<br>
     현재 프론트엔드 개발자를 꿈꾸고 있습니다.<br>
