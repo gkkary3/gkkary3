@@ -42,7 +42,7 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
@@ -54,11 +54,10 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
   <tbody>
     <tr>
       <td>
-          <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="Frontend Roadmap">
-        
+       <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="Frontend Roadmap">
       </td>
       <td>
-          <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="">
+       <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="">
       </td>
       <td>
         <img align="center" src="https://user-images.githubusercontent.com/81800956/183646695-b881ffba-632c-45da-90af-6fa6d0e899b6.png" width="300" height="300" alt-text="Git tutorial">
