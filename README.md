@@ -54,10 +54,10 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
   <tbody>
     <tr>
       <td>
-         ![image](https://user-images.githubusercontent.com/81800956/229945957-e5980de9-ab9b-4506-b1e4-12dc93c8b1be.png)
+        <img align="center" src="https://user-images.githubusercontent.com/81800956/229945957-e5980de9-ab9b-4506-b1e4-12dc93c8b1be.png" width="300" height="300" alt-text="">
       </td>
 <!--       <td>
-       <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="">
+       
       </td>
       <td>
         <img align="center" src="https://user-images.githubusercontent.com/81800956/183646695-b881ffba-632c-45da-90af-6fa6d0e899b6.png" width="300" height="300" alt-text="Git tutorial">
