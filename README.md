@@ -54,8 +54,8 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
   <tbody>
     <tr>
       <td>
-<!--           <img align="center" src="https://user-images.githubusercontent.com/81800956/183645881-d52c2b7d-fd65-47bd-b97b-463662cb0722.png" width="300" height="300" alt-text="Frontend Roadmap"> -->
-        https://user-images.githubusercontent.com/81800956/184471109-6c418d8e-b6fb-497a-8651-e7b692c66210.mp4
+          <img align="center" src="https://user-images.githubusercontent.com/81800956/184471109-6c418d8e-b6fb-497a-8651-e7b692c66210.mp4" width="300" height="300" alt-text="Frontend Roadmap">
+        
       </td>
       <td>
           <img align="center" src="https://user-images.githubusercontent.com/81800956/183646082-c3ebf7bb-158f-4eba-8e15-129991ca09ca.png" width="300" height="300" alt-text="">
