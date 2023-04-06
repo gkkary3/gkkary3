@@ -57,12 +57,11 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
         <a href="https://github.com/gkkary3/startbucks">
         <img align="center" src="https://user-images.githubusercontent.com/81800956/229945957-e5980de9-ab9b-4506-b1e4-12dc93c8b1be.png" width="300" height="300" alt-text="">
       </td>
-<!--       <td>
-       
+     <td>
+       ![image]()
+         <a href="https://github.com/gkkary3/my-cafe-menu-app">
+        <img align="center" src="https://user-images.githubusercontent.com/81800956/230419342-fe45a13e-3c7e-4218-9907-c36700d984b2.png" width="300" height="300" alt-text="">
       </td>
-      <td>
-        <img align="center" src="https://user-images.githubusercontent.com/81800956/183646695-b881ffba-632c-45da-90af-6fa6d0e899b6.png" width="300" height="300" alt-text="Git tutorial">
-      </td> -->
     </tr> 
   </tbody>
 </table>
