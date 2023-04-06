@@ -58,7 +58,6 @@ I'm currently dreaming of becoming a front-end developer.<br><br>
         <img align="center" src="https://user-images.githubusercontent.com/81800956/229945957-e5980de9-ab9b-4506-b1e4-12dc93c8b1be.png" width="300" height="300" alt-text="">
       </td>
      <td>
-       ![image]()
          <a href="https://github.com/gkkary3/my-cafe-menu-app">
         <img align="center" src="https://user-images.githubusercontent.com/81800956/230419342-fe45a13e-3c7e-4218-9907-c36700d984b2.png" width="300" height="300" alt-text="">
       </td>
