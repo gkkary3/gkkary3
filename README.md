@@ -30,7 +30,6 @@
   </a>
   -->
 </p>
-
 <br />
 <h2> My tech stack 📚 </h2>
 
