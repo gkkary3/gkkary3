@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ **About Me**
 
-- 🧑‍💻 Hi, I'm **Sangmin Park**, a web developer passionate about crafting seamless user experiences and building efficient backend solutions.
+- 🧑‍💻 Hi, I'm **Sangmin Park**, a 2nd-year web developer currently working at a company that uses **ASP.NET MVC**, **jQuery**, and **MSSQL**.
 - 🌱 I’m constantly exploring new technologies and improving my skills.
 - 🎯 **Current Focus**: I'm currently focusing on **React** development and deepening my understanding of **algorithms** to enhance my problem-solving skills.
 
