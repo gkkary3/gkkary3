@@ -15,7 +15,7 @@
 
 - 🧑‍💻 Hi, I'm **Sangmin Park**, a web developer passionate about crafting seamless user experiences and building efficient backend solutions.
 - 🌱 I’m constantly exploring new technologies and improving my skills.
-- 🎯 Current Focus: **React**, **TailwindCSS**, and **localStorage** integration in project management apps.
+- 🎯 **Current Focus**: I'm currently focusing on **React** development and deepening my understanding of **algorithms** to enhance my problem-solving skills.
 
 ---
 
