@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gkkary3/react-To-do-List"><strong>Project Link.</strong></a>
+  <a href="https://github.com/gkkary3/react-To-do-List" target="_blank"><strong>Project Link</strong></a>
 </p>
 
 ---
