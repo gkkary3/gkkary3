@@ -80,11 +80,8 @@
   <img src="https://github.com/user-attachments/assets/aa32994a-de9f-4d0e-ba6a-1e05f288f27b" alt="detaildProject" width="250"/>
 </p>
 
-
-
-
 <p align="center">
-  <a href="#"><strong>More Projects...</strong></a>
+  <a href="https://github.com/gkkary3/react-To-do-List"><strong>Project Link.</strong></a>
 </p>
 
 ---
