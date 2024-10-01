@@ -19,12 +19,6 @@
 
 ---
 
-### 💡 **Motto**
-> "Don't dream, Be it."  
-> **꿈만 꾸지 말고, 되어라.**
-
----
-
 ### 🛠 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
