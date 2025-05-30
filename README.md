@@ -46,7 +46,9 @@
 
 <div align="center">
 
-### **Languages & Frameworks**
+```javascript
+// Languages & Frameworks
+```
 
 <table>
 <tr>
@@ -87,7 +89,9 @@
 </tr>
 </table>
 
-### **Databases & Tools**
+```javascript
+// Databases & Tools
+```
 
 <table>
 <tr>
