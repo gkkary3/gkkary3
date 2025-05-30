@@ -40,7 +40,9 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+```javascript
+// TECH_STACK.js
+```
 
 <div align="center">
 
@@ -112,9 +114,9 @@
 
 ---
 
-## 💡 **Currently Focusing On**
-
 ```javascript
+// CURRENT_FOCUS.js
+
 const currentFocus = {
   backend: "NestJS - Building scalable server-side applications",
   frontend: "Next.js - Modern React framework mastery",
@@ -126,14 +128,16 @@ console.log("Deep diving into these technologies! 🎯");
 
 ---
 
-## 📬 **Get In Touch**
+```javascript
+// CONTACT.js
+```
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nambawon1@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@vekkary)
 
-**💼 Open for opportunities**
+**Open for opportunities**
 
 </div>
 
@@ -150,3 +154,7 @@ console.log("Deep diving into these technologies! 🎯");
 [![Profile Views](https://komarev.com/ghpvc/?username=gkkary3&style=flat-square&color=blue)](https://github.com/gkkary3)
 
 </div>
+
+```
+
+```
