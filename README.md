@@ -1,9 +1,5 @@
 <div align="center">
 
-# Sangmin Park
-
-## Full-Stack Developer
-
 <br>
 
 ```
@@ -31,6 +27,8 @@
 
         💻 ⚡ ☕ 🚀 💡 ⚡ 💻
 ```
+
+**`Sangmin Park` | Full-Stack Developer**
 
 **Building modern web applications with passion and precision**
 
