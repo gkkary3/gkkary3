@@ -6,7 +6,18 @@
 
 <br>
 
+```
+ ██████╗ ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗
+██╔════╝██╔═══██╗██╔══██╗██║████╗  ██║██╔════╝
+██║     ██║   ██║██║  ██║██║██╔██╗ ██║██║  ███╗
+██║     ██║   ██║██║  ██║██║██║╚██╗██║██║   ██║
+╚██████╗╚██████╔╝██████╔╝██║██║ ╚████║╚██████╔╝
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
+
 **Building modern web applications with passion and precision**
+
+`⚡ Always coding, always learning, always growing ⚡`
 
 <br>
 
@@ -45,7 +56,7 @@
 <br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/>
+<img src="https://nestjs.com/img/logo-small.svg" width="50" height="50"/>
 <br><sub><b>NestJS</b></sub>
 </td>
 <td align="center" width="100">
@@ -72,12 +83,12 @@
 <br><sub><b>MSSQL</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<br><sub><b>Git</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<br><sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<br><sub><b>Docker</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<br><sub><b>Git</b></sub>
 </td>
 </tr>
 </table>
