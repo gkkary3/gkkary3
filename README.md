@@ -1,15 +1,14 @@
-<!-- Header Section with Animation -->
 <div align="center">
-  
-# 👋 Hi, I'm **Sangmin Park**
 
-### 💻 JavaScript Full-Stack Developer
+# Sangmin Park
 
-#### 🚀 _Building the future, one line of code at a time_
+## Full-Stack Developer
 
-<img src="https://user-images.githubusercontent.com/81800956/183647780-5ff1c3b3-6e14-4fc8-bd71-43c27d61ac99.png" height="120" alt="Developer Avatar" style="border-radius: 50%;">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Node.js+%26+React+Specialist;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+**Building modern web applications with passion and precision**
+
+<br>
 
 </div>
 
@@ -17,16 +16,73 @@
 
 ## 🛠️ **Tech Stack**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+### **Languages & Frameworks**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+<br><sub><b>Next.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/>
+<br><sub><b>NestJS</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
+<br><sub><b>C#</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
+<br><sub><b>ASP.NET MVC</b></sub>
+</td>
+</tr>
+</table>
+
+### **Databases & Tools**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+<br><sub><b>MSSQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<br><sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
