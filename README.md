@@ -158,7 +158,3 @@ console.log("Deep diving into these technologies! 🎯");
 [![Profile Views](https://komarev.com/ghpvc/?username=gkkary3&style=flat-square&color=blue)](https://github.com/gkkary3)
 
 </div>
-
-```
-
-```
