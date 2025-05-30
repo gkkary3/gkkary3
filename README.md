@@ -1,7 +1,7 @@
 <!-- Header Section with Animation -->
 <div align="center">
   
-# 👋 안녕하세요, **박상민**입니다!
+# 👋 Hi, I'm **Sangmin Park**
 
 ### 💻 JavaScript Full-Stack Developer
 
@@ -12,18 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Node.js+%26+React+Specialist;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🎯 **About Me**
-
-> **"코드로 세상을 더 나은 곳으로 만들어가는 개발자"**
-
-- 🧑‍💻 **JavaScript Full-Stack Developer**로 현재 **Node.js**, **React** 기반 웹 애플리케이션을 개발하고 있습니다
-- 🏢 **ASP.NET MVC**, **jQuery**, **MSSQL** 환경에서 실무 경험을 쌓았으며, 현재는 **모던 JavaScript 생태계**로 전환
-- 🌱 **지속적인 학습**을 통해 최신 기술 트렌드를 따라가며 성장하고 있습니다
-- 🎨 **사용자 경험(UX)**과 **성능 최적화**에 관심이 많습니다
-- 📚 **알고리즘** 학습을 통해 문제 해결 능력을 지속적으로 향상시키고 있습니다
 
 ---
 
@@ -45,7 +33,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### **Database & Tools**
@@ -59,27 +46,13 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkkary3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkkary3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gkkary3&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
+## 🚀 **Featured Project**
 
 <div align="center">
 
 ### 📱 **React Todo List Application**
 
-_모던한 UI/UX를 적용한 할일 관리 애플리케이션_
+_Modern UI/UX todo management application_
 
 <img src="https://github.com/user-attachments/assets/2000ad33-dc30-4797-8b45-3635dd560cd4" alt="userName" width="200"/>
 <img src="https://github.com/user-attachments/assets/a92b7fe7-8bac-4db6-8d08-2a974208179f" alt="welcome" width="200"/>
@@ -93,10 +66,10 @@ _모던한 UI/UX를 적용한 할일 관리 애플리케이션_
 
 ---
 
-## 💡 **Current Focus**
+## 💡 **Currently Learning**
 
 ```javascript
-const currentLearning = {
+const currentFocus = {
   frontend: ["Next.js", "TypeScript", "State Management"],
   backend: ["NestJS", "GraphQL", "Microservices"],
   database: ["MongoDB", "Redis", "PostgreSQL"],
@@ -109,16 +82,14 @@ console.log("Always learning, always growing! 🚀");
 
 ---
 
-## 🤝 **Let's Connect!**
+## 📬 **Get In Touch**
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nambawon1@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@vekkary)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangmin-park)
 
-**📧 Email:** nambawon1@gmail.com  
-**💼 Open for opportunities:** Full-Stack Developer positions
+**💼 Open for opportunities**
 
 </div>
 
@@ -126,7 +97,7 @@ console.log("Always learning, always growing! 🚀");
 
 <div align="center">
 
-### ⭐ "_좋은 코드는 예술이며, 훌륭한 개발자는 예술가입니다_" ⭐
+### ⭐ _"Code is poetry, developers are poets"_ ⭐
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gkkary3&style=flat-square&color=blue)](https://github.com/gkkary3)
 
